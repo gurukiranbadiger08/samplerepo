@@ -1,0 +1,30 @@
+body {
+    background: url("https://mcdn.wallpapersafari.com/medium/51/80/JdpMBo.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+
+}
+
+form {
+
+    padding-left: 750px;
+    text-align: left;
+}
+
+label {
+    size: 30px;
+}
+
+table {
+    border: 1px solid black;
+    padding: 50px;
+    float: left;
+}
+
+tr {
+    padding: 5px;
+}
